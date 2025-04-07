@@ -5,5 +5,7 @@ struct ContentView: View {
        Text("Veer Patel")
         Text("Riddick Variano")
         Image(systemName: "pencil.line")
+        
+        Image(systemName: "pencil.tip")
     }
 }
